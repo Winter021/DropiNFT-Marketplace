@@ -1,6 +1,5 @@
 //SPDX-License-Identifier: Unlicense
 /// @title DropiNFT - an NFT Marketplace
-/// @author Movish Verma
 
 pragma solidity >=0.7.3;
 
